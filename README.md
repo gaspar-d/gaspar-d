@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+## My I'm Gaspar, your everyday bug creator 👨🏾‍💻 
 
 - 🌱 I’m currently learning Swift and IOS development
 - 📫 How to reach me: diogo.gaspar@me.com
 
 
 
-- I'm a currentily software developer learning Swift and IOS
+
 
 
 <!--
