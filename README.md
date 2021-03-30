@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ## Hi, I'm Gaspar, your everyday bug creator 👨🏾‍💻 
 
