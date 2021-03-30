@@ -2,7 +2,9 @@
 
 ## Hi, I'm Gaspar, your everyday bug creator 👨🏾‍💻 
 
-- 🌱 I’m currently learning Swift and IOS development
+
+- 👨🏽‍🎨 React Frontend developer -- Graduated from Labenu
+- 📲 I’m currently learning Swift and IOS development
 - 📫 How to reach me: diogo.gaspar@me.com
 
 
