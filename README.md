@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Swift and IOS development
+- 📫 How to reach me: diogo.gaspar@me.com
+
+
+
+- I'm a currentily software developer learning Swift and IOS
 
 
 <!--
