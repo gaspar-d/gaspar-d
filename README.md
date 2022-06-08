@@ -8,10 +8,6 @@
 - 📫 How to reach me: diogo.gaspar@me.com
 
 
-
-
-
-
 <!--
 **gaspar-d/gaspar-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![card](https://github-readme-stats.vercel.app/api?username=gaspar-d&theme=default&show_icons=true)](https://github.com/iuricode/)
