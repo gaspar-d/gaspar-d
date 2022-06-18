@@ -1,6 +1,7 @@
 ### 👋
 
-## Hi, I'm Gaspar, your everyday bug creator 👨🏾‍💻 
+## Hi, I'm Gaspar 
+## Your everyday bug creator 👨🏾‍💻 
 
 
 - 👨🏽‍🎨 React Frontend developer -- Graduated from Labenu
