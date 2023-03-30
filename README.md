@@ -4,8 +4,8 @@
 ## Your everyday bug creator 👨🏾‍💻 
 
 
-- 👨🏽‍🎨 React Frontend developer -- Graduated from Labenu
-- 📲 I’m currently learning Swift and IOS development
+- 👨🏽‍🎨 iOS Software Developer
+- 📲 I’m currently working at NTT Data
 - 📫 How to reach me: diogo.gaspar@me.com
 
 
