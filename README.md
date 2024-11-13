@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![card](https://github-readme-stats.vercel.app/api?username=gaspar-d&theme=default&show_icons=true)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=gaspar-d&theme=default&show_icons=true)](https://github.com/gaspar-d/)
